@@ -49,6 +49,5 @@ Proyek ini berisi hasil **analisis data nilai siswa** serta refleksi pembelajara
 ---
 
 ### ✨ Penulis
-**Nama:** *[Isi Nama Kamu]*  
-**Kelas:** *[Isi Kelas atau Identitasmu]*  
-**Tanggal:** *[Tanggal Pengerjaan]*  
+**Nama:** *Fatchur Rosu*  
+**Kelas:** *XI RPL 1*  
